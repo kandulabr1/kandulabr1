@@ -1,44 +1,31 @@
-# 👋 Hi, I’m Bharath Reddy Kandula
+👋 Hi, I’m Bharath Reddy Kandula
 
-Welcome to my GitHub! I’m a motivated Data Analyst and Engineer with a strong foundation in data processing, machine learning, and cloud solutions. Currently completing my Master’s in Computer Science at the University of South Florida, I’m passionate about applying my skills to build efficient, data-driven solutions that support strategic decision-making.
+I’m a Software Developer passionate about building scalable backend systems, full-stack web apps, and cloud-native solutions. With hands-on experience in Python, JavaScript, React, Django, AWS, and Docker, I focus on crafting clean, maintainable code and delivering robust solutions aligned with business goals.
 
-🎓 Education & Certifications
+🚀 Tech Stack & Interests
+	•	Languages: Python, JavaScript, Java, SQL
+	•	Frameworks & Tools: React, Flask, Django REST, Docker, Jenkins, GitHub Actions
+	•	Cloud: AWS (EC2, S3, RDS, Lambda, IAM), Serverless Architectures
+	•	Databases: PostgreSQL, MySQL, MongoDB
+	•	DevOps: CI/CD, GitHub Actions, Docker Compose
+	•	Data: Apache Spark, ETL Pipelines, Data Quality Checks
+	•	BI & Visualization: Power BI, Tableau
 
-	•	Master’s in Computer Science from the University of South Florida (2023-2024)
-	•	Bachelor’s in Computer Science and Engineering from Rajiv Gandhi University of Knowledge Technologies (2016-2022)
-	•	AWS Certified Developer - Associate
+🔨 Projects
 
-💼 Professional Experience
+Here are a few featured projects I’ve built or contributed to:
+	•	🗨 Real-Time Private Chat App – Socket.io + React + JWT Auth + MongoDB (Deployed on Render)
+	•	📋 Task Management System – Full-stack CRUD app with drag-and-drop features, built using Django REST + React + PostgreSQL + Docker
+	•	📊 Netflix Analysis Dashboard – Data visualization project using Power BI to explore viewer insights
+	•	☁️ Cloud File Storage App – Serverless backend using AWS S3, Lambda, JWT Auth, PostgreSQL
 
-I’m currently a Data Analyst Intern at Sigma Analytics LLC, where I work on:
-	•	Structuring and managing large datasets using SQL, achieving measurable improvements in data entry and reporting accuracy.
-	•	Developing and optimizing ETL pipelines to enhance data accessibility, reducing processing time significantly.
-	•	Creating interactive dashboards with Power BI and Tableau, increasing the impact of visual data-driven insights.
+👨‍💻 Experience Highlights
+	•	Backend and DevOps work at BI Galaxy Technologies Inc., focusing on scalable APIs and cloud infrastructure
+	•	Data engineering and dashboard automation at Sigma Analytics
+	•	Full-stack and secure microservices development during my Research Assistantship at USF
+	•	ML-powered health prediction models during my Data Science Internship at Exposys Labs
 
-This experience has allowed me to hone my skills in database management, big data tools, and visualization software while collaborating in a dynamic, remote team environment.
-
-🔧 Skills & Expertise
-
-	•	Data Management & Engineering: SQL, ETL Processes, Data Warehousing, Data Pipeline Optimization, Data Cleaning
-	•	Data Analysis & Visualization: Python (Pandas, NumPy, Matplotlib), Tableau, Power BI
-	•	Machine Learning: Scikit-learn, TensorFlow, Predictive Modeling, Hyperparameter Tuning
-	•	Cloud Platforms: AWS, Google Cloud
-	•	Programming & Tools: Python, SQL, Shell Scripting, Git
-
-🌟 Featured Projects
-
-	•	Optimized Recommendation System: Developed a hybrid recommendation system that combines collaborative filtering with SVM. This project enhanced recommendation success rates by 20% and improved retrieval speed through optimized SQL queries and ETL processes.
-	•	High Accuracy Image Classification: Built a TensorFlow-based image classification model achieving 90% test accuracy. I deployed the model on AWS for scalable processing, utilizing advanced data preprocessing and augmentation techniques.
-	•	Diabetes Prediction Model: Created a Python-based model to predict diabetes with 90% accuracy, alongside a web application for visual insights, increasing user engagement by 30%.
-
-🚀 Future Goals
-
-I’m eager to expand my expertise in data engineering and cloud technologies, and I’m actively working on a project tailored to an Associate Solutions Architect role at Amazon. In the near future, I plan to establish a startup in India focused on delivering data analytics and engineering solutions for various industries.
-
-📫 Let’s Connect!
-
-I’m always open to new collaborations, learning opportunities, and professional connections. Feel free to reach out through:
-	•	LinkedIn: linkedin.com/in/bharath-reddy-kandula
-	•	Email: kandulabr1@gmail.com
-
-Thank you for visiting my GitHub! Explore my repositories to see my work in action, and let’s connect if you’re interested in discussing data, technology, or potential collaborations.
+🧠 Currently Learning
+	•	Advanced system design principles
+	•	Distributed systems and cloud-native architecture
+	•	Building scalable microservices with event-driven patterns
