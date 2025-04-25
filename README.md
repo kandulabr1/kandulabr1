@@ -1,31 +1,9 @@
-👋 Hi, I’m Bharath Reddy Kandula
+👋 Hi, I’m Bharath Reddy Kandula, a Software Developer passionate about building scalable backend systems, full-stack web applications, and cloud-native solutions. I specialize in developing robust, maintainable code using technologies like Python, JavaScript, React, Flask, Django REST, and AWS. With experience in microservices architecture, REST API development, and DevOps practices, I focus on delivering solutions that align with business goals and perform reliably in production environments.
 
-I’m a Software Developer passionate about building scalable backend systems, full-stack web apps, and cloud-native solutions. With hands-on experience in Python, JavaScript, React, Django, AWS, and Docker, I focus on crafting clean, maintainable code and delivering robust solutions aligned with business goals.
+I have hands-on experience with tools such as Docker, Jenkins, GitHub Actions, and Terraform, and I’m skilled in deploying and managing applications on AWS services like EC2, S3, RDS, Lambda, IAM, and CloudWatch. My work also extends to database systems including PostgreSQL, MySQL, MongoDB, and DynamoDB, along with data engineering using Apache Spark and ETL pipelines. I enjoy building data-driven solutions and visualizations using Power BI and Tableau to provide actionable insights.
 
-🚀 Tech Stack & Interests
-	•	Languages: Python, JavaScript, Java, SQL
-	•	Frameworks & Tools: React, Flask, Django REST, Docker, Jenkins, GitHub Actions
-	•	Cloud: AWS (EC2, S3, RDS, Lambda, IAM), Serverless Architectures
-	•	Databases: PostgreSQL, MySQL, MongoDB
-	•	DevOps: CI/CD, GitHub Actions, Docker Compose
-	•	Data: Apache Spark, ETL Pipelines, Data Quality Checks
-	•	BI & Visualization: Power BI, Tableau
+Some of the projects I’ve worked on include a real-time private chat application built with Socket.io and React, featuring secure JWT authentication and cloud-hosted MongoDB; a full-stack task management system using Django REST and React with Dockerized deployment; a generative AI chatbot powered by OpenAI’s GPT-3.5 API, integrated with AWS Lambda and DynamoDB; and a Power BI dashboard analyzing Netflix data for trends across genres, countries, and release years. I also developed a cloud-based file storage app using AWS S3, Lambda, and PostgreSQL, focused on secure file handling and scalable backend design.
 
-🔨 Projects
+Professionally, I’ve contributed to backend and DevOps efforts at BI Galaxy Technologies Inc., focusing on scalable APIs and cloud infrastructure. At Sigma Analytics LLC, I engineered automated ETL pipelines and implemented serverless data processing workflows. During my time as a Research Assistant at the University of South Florida, I developed secure microservices and full-stack research applications leveraging AWS. Earlier, as a Data Science Intern at Exposys Data Labs, I built machine learning models for healthcare predictions and created REST APIs for real-time analytics.
 
-Here are a few featured projects I’ve built or contributed to:
-	•	🗨 Real-Time Private Chat App – Socket.io + React + JWT Auth + MongoDB (Deployed on Render)
-	•	📋 Task Management System – Full-stack CRUD app with drag-and-drop features, built using Django REST + React + PostgreSQL + Docker
-	•	📊 Netflix Analysis Dashboard – Data visualization project using Power BI to explore viewer insights
-	•	☁️ Cloud File Storage App – Serverless backend using AWS S3, Lambda, JWT Auth, PostgreSQL
-
-👨‍💻 Experience Highlights
-	•	Backend and DevOps work at BI Galaxy Technologies Inc., focusing on scalable APIs and cloud infrastructure
-	•	Data engineering and dashboard automation at Sigma Analytics
-	•	Full-stack and secure microservices development during my Research Assistantship at USF
-	•	ML-powered health prediction models during my Data Science Internship at Exposys Labs
-
-🧠 Currently Learning
-	•	Advanced system design principles
-	•	Distributed systems and cloud-native architecture
-	•	Building scalable microservices with event-driven patterns
+I’m currently deepening my knowledge of advanced system design principles, distributed systems, and event-driven microservices. I’m also exploring cloud automation tools and patterns for building highly available, resilient applications. Let’s connect on LinkedIn, or feel free to explore my projects here on GitHub!
