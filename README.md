@@ -1,9 +1,43 @@
-👋 Hi, I’m Bharath Reddy Kandula, a Software Developer passionate about building scalable backend systems, full-stack web applications, and cloud-native solutions. I specialize in developing robust, maintainable code using technologies like Python, JavaScript, React, Flask, Django REST, and AWS. With experience in microservices architecture, REST API development, and DevOps practices, I focus on delivering solutions that align with business goals and perform reliably in production environments.
+# 👋 Hi, I’m Bharath Reddy Kandula
 
-I have hands-on experience with tools such as Docker, Jenkins, GitHub Actions, and Terraform, and I’m skilled in deploying and managing applications on AWS services like EC2, S3, RDS, Lambda, IAM, and CloudWatch. My work also extends to database systems including PostgreSQL, MySQL, MongoDB, and DynamoDB, along with data engineering using Apache Spark and ETL pipelines. I enjoy building data-driven solutions and visualizations using Power BI and Tableau to provide actionable insights.
+I’m a Software Engineer and Data Enthusiast passionate about building scalable systems, full-stack web applications, and cloud-native solutions. My expertise spans backend development, data engineering, and machine learning—bringing together performance, reliability, and meaningful insights.
 
-Some of the projects I’ve worked on include a real-time private chat application built with Socket.io and React, featuring secure JWT authentication and cloud-hosted MongoDB; a full-stack task management system using Django REST and React with Dockerized deployment; a generative AI chatbot powered by OpenAI’s GPT-3.5 API, integrated with AWS Lambda and DynamoDB; and a Power BI dashboard analyzing Netflix data for trends across genres, countries, and release years. I also developed a cloud-based file storage app using AWS S3, Lambda, and PostgreSQL, focused on secure file handling and scalable backend design.
+I specialize in technologies like **Python, JavaScript, Java, React, Flask, Spring Boot**, and cloud platforms such as **AWS** and **GCP**. I have hands-on experience working with **REST APIs**, **microservices architecture**, and **DevOps pipelines** using tools like **Docker, Jenkins, GitHub Actions**, and **Terraform**.
 
-Professionally, I’ve contributed to backend and DevOps efforts at BI Galaxy Technologies Inc., focusing on scalable APIs and cloud infrastructure. At Sigma Analytics LLC, I engineered automated ETL pipelines and implemented serverless data processing workflows. During my time as a Research Assistant at the University of South Florida, I developed secure microservices and full-stack research applications leveraging AWS. Earlier, as a Data Science Intern at Exposys Data Labs, I built machine learning models for healthcare predictions and created REST APIs for real-time analytics.
+### 🚀 What I Do
+- 🔧 Build scalable and modular backend services using Python, Java, and Node.js
+- ☁️ Deploy cloud-native applications with AWS (EC2, S3, Lambda, RDS, IAM) and GCP
+- 📊 Create interactive dashboards and data pipelines using Power BI, Tableau, Apache Spark, and ETL tools
+- 🔍 Apply machine learning to real-world problems using Scikit-learn and OpenAI APIs
+- 🔐 Implement secure authentication with OAuth2, JWT, and best practices in API design
 
-I’m currently deepening my knowledge of advanced system design principles, distributed systems, and event-driven microservices. I’m also exploring cloud automation tools and patterns for building highly available, resilient applications. Let’s connect on LinkedIn, or feel free to explore my projects here on GitHub!
+### 🛠️ Tools & Technologies
+**Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
+**Frameworks:** React, Flask, Spring Boot, Node.js, Express, Socket.IO  
+**Data & ML:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Hive, SAS  
+**Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB  
+**Cloud & DevOps:** AWS, GCP, Docker, Terraform, Jenkins, GitHub Actions  
+**Analytics & BI:** Power BI, Tableau, Power Query, Excel
+
+### 📂 Featured Projects
+- 💬 **Real-Time Private Chat App** – Built with Socket.IO, Node.js, and MongoDB for secure, real-time messaging
+- 🤖 **Generative AI Chatbot** – Integrated OpenAI GPT API using Python and AWS Lambda for dynamic conversations
+- 🎮 **Game Recommendation System** – Correlation-based engine recommending games based on user preferences
+- 📈 **Data Analytics Dashboards** – Interactive Power BI dashboards for business insights and trend analysis
+- 🧠 **Diabetes Prediction Model** – ML-powered healthcare predictions with model validation and EDA
+
+### 💼 Work Experience
+- **Software Engineer @ BI Galaxy Technologies Inc** – Delivered backend features and microservices on AWS
+- **Data Analyst Intern @ Sigma Analytics LLC** – Built ETL pipelines, dashboards, and conducted data quality checks
+- **Research Assistant @ University of South Florida** – Developed full-stack apps and secure APIs for health research
+- **Data Science Intern @ Exposys Data Labs** – Built ML models and APIs for real-time healthcare predictions
+
+### 🎯 Currently Exploring
+- Event-driven microservices and distributed system design  
+- Advanced cloud automation and infrastructure as code  
+- Scalable ETL architectures and real-time analytics pipelines
+
+---
+
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+💻 Check out my work here on GitHub!
